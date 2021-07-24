@@ -8,7 +8,7 @@ Feel free to add a star ⭐ to the repository to promote the project!
 😀 Commands made pleasant thanks to the many emojis
 Administrator Bot also adds a new mention like @everyone and @here, the @someone, which allows you to pick a random member of the server!
 
-Many commands
+### Many commands
 Administrator Bot can have a lot of features!
 👩‍💼 Administration: slowmode, welcome, addcommand, automod, backup and 11 more!
 🚓 Moderation: see-warns, setlogs, checkinvites, poll, and 6 more!
